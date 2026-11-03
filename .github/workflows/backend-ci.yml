@@ -42,3 +42,52 @@ jobs:
         run: |
           docker push ghcr.io/${{ github.repository }}:${{ github.sha }}
           docker push ghcr.io/${{ github.repository }}:latest
+
+      - name: Checkout GitOps repository
+        uses: actions/checkout@v6
+        with:
+          repository: byeonggwan-blip/finova-gitops
+          token: ${{ secrets.GITOPS_TOKEN }}
+          ref: main
+          path: gitops
+
+      - name: Update GitOps image tag
+        env:
+          IMAGE_TAG: ${{ github.sha }}
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+
+          path = "gitops/k8s/deployment.json"
+
+          with open(path) as f:
+              data = json.load(f)
+
+          container = data["spec"]["template"]["spec"]["containers"][0]
+          container["image"] = (
+              "ghcr.io/byeonggwan-blip/finova-backend:"
+              + os.environ["IMAGE_TAG"]
+          )
+          container["imagePullPolicy"] = "IfNotPresent"
+
+          with open(path, "w") as f:
+              json.dump(data, f, indent=2)
+              f.write("\n")
+
+          print("GitOps image tag updated")
+          PY
+
+      - name: Commit and push GitOps changes
+        run: |
+          cd gitops
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add k8s/deployment.json
+          if git diff --cached --quiet; then
+            echo "No GitOps changes"
+          else
+            git commit -m "gitops: deploy backend ${{ github.sha }}"
+            git push origin main
+          fi
+
