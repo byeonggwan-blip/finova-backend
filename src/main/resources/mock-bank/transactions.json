@@ -1,0 +1,1311 @@
+{
+  "bankCode": "DEMO_BANK",
+  "bankName": "Finova Demo Bank",
+  "accountId": "DEMO-ACC-003",
+  "transactions": [
+    {
+      "externalTransactionId": "DEMO-1001",
+      "transactionType": "INCOME",
+      "category": "급여",
+      "amount": 3200000,
+      "description": "10월 급여",
+      "transactionDate": "2026-10-20T09:00:00"
+    },
+    {
+      "externalTransactionId": "DEMO-1002",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 15000,
+      "description": "점심 식사",
+      "transactionDate": "2026-10-21T12:30:00"
+    },
+    {
+      "externalTransactionId": "DEMO-1003",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 60000,
+      "description": "교통비",
+      "transactionDate": "2026-10-22T08:00:00"
+    },
+    {
+      "externalTransactionId": "DEMO-1004",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 5500,
+      "description": "커피 구매",
+      "transactionDate": "2026-10-23T14:00:00"
+    },
+    {
+      "externalTransactionId": "DEMO-1005",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 15296,
+      "description": "문화 이용",
+      "transactionDate": "2026-01-10T17:07:01"
+    },
+    {
+      "externalTransactionId": "DEMO-1006",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 26024,
+      "description": "문화 이용",
+      "transactionDate": "2026-04-06T02:33:27"
+    },
+    {
+      "externalTransactionId": "DEMO-1007",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 3786,
+      "description": "교통 이용",
+      "transactionDate": "2026-10-14T00:24:33"
+    },
+    {
+      "externalTransactionId": "DEMO-1008",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 23870,
+      "description": "식비 이용",
+      "transactionDate": "2026-02-03T18:19:43"
+    },
+    {
+      "externalTransactionId": "DEMO-1009",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 65302,
+      "description": "생활 이용",
+      "transactionDate": "2026-01-13T08:14:09"
+    },
+    {
+      "externalTransactionId": "DEMO-1010",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 9070,
+      "description": "식비 이용",
+      "transactionDate": "2026-03-26T21:51:13"
+    },
+    {
+      "externalTransactionId": "DEMO-1011",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 9779,
+      "description": "교통 이용",
+      "transactionDate": "2026-08-22T19:13:16"
+    },
+    {
+      "externalTransactionId": "DEMO-1012",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 24390,
+      "description": "식비 이용",
+      "transactionDate": "2026-03-19T05:18:04"
+    },
+    {
+      "externalTransactionId": "DEMO-1013",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 43713,
+      "description": "문화 이용",
+      "transactionDate": "2026-06-12T22:12:29"
+    },
+    {
+      "externalTransactionId": "DEMO-1014",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 8859,
+      "description": "교통 이용",
+      "transactionDate": "2026-08-17T20:21:15"
+    },
+    {
+      "externalTransactionId": "DEMO-1015",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 3553,
+      "description": "카페 이용",
+      "transactionDate": "2026-10-22T16:35:50"
+    },
+    {
+      "externalTransactionId": "DEMO-1016",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 40463,
+      "description": "통신 이용",
+      "transactionDate": "2026-09-29T03:07:50"
+    },
+    {
+      "externalTransactionId": "DEMO-1017",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 64597,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-04-18T21:56:55"
+    },
+    {
+      "externalTransactionId": "DEMO-1018",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 5027,
+      "description": "교통 이용",
+      "transactionDate": "2026-05-11T17:17:18"
+    },
+    {
+      "externalTransactionId": "DEMO-1019",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 9039,
+      "description": "식비 이용",
+      "transactionDate": "2026-05-28T13:10:44"
+    },
+    {
+      "externalTransactionId": "DEMO-1020",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 17763,
+      "description": "식비 이용",
+      "transactionDate": "2026-05-14T13:53:58"
+    },
+    {
+      "externalTransactionId": "DEMO-1021",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 44671,
+      "description": "생활 이용",
+      "transactionDate": "2026-01-17T20:59:14"
+    },
+    {
+      "externalTransactionId": "DEMO-1022",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 38108,
+      "description": "문화 이용",
+      "transactionDate": "2026-07-28T06:00:29"
+    },
+    {
+      "externalTransactionId": "DEMO-1023",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 18403,
+      "description": "식비 이용",
+      "transactionDate": "2026-01-31T14:28:15"
+    },
+    {
+      "externalTransactionId": "DEMO-1024",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 48427,
+      "description": "생활 이용",
+      "transactionDate": "2026-09-02T03:20:51"
+    },
+    {
+      "externalTransactionId": "DEMO-1025",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 57400,
+      "description": "생활 이용",
+      "transactionDate": "2026-08-13T05:18:43"
+    },
+    {
+      "externalTransactionId": "DEMO-1026",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 13043,
+      "description": "교통 이용",
+      "transactionDate": "2026-01-28T00:18:03"
+    },
+    {
+      "externalTransactionId": "DEMO-1027",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 13467,
+      "description": "식비 이용",
+      "transactionDate": "2026-04-23T09:17:28"
+    },
+    {
+      "externalTransactionId": "DEMO-1028",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 13628,
+      "description": "식비 이용",
+      "transactionDate": "2026-02-09T05:24:05"
+    },
+    {
+      "externalTransactionId": "DEMO-1029",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 56434,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-06-26T02:05:25"
+    },
+    {
+      "externalTransactionId": "DEMO-1030",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 31909,
+      "description": "문화 이용",
+      "transactionDate": "2026-03-05T04:02:45"
+    },
+    {
+      "externalTransactionId": "DEMO-1031",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 6410,
+      "description": "카페 이용",
+      "transactionDate": "2026-03-23T08:44:49"
+    },
+    {
+      "externalTransactionId": "DEMO-1032",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 25496,
+      "description": "문화 이용",
+      "transactionDate": "2026-09-30T13:26:21"
+    },
+    {
+      "externalTransactionId": "DEMO-1033",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 12679,
+      "description": "문화 이용",
+      "transactionDate": "2026-08-25T13:30:44"
+    },
+    {
+      "externalTransactionId": "DEMO-1034",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 19215,
+      "description": "문화 이용",
+      "transactionDate": "2026-07-27T10:32:40"
+    },
+    {
+      "externalTransactionId": "DEMO-1035",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 24043,
+      "description": "문화 이용",
+      "transactionDate": "2026-03-05T11:01:17"
+    },
+    {
+      "externalTransactionId": "DEMO-1036",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 69735,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-04-15T20:05:45"
+    },
+    {
+      "externalTransactionId": "DEMO-1037",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 44500,
+      "description": "문화 이용",
+      "transactionDate": "2026-03-27T06:57:42"
+    },
+    {
+      "externalTransactionId": "DEMO-1038",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 29252,
+      "description": "문화 이용",
+      "transactionDate": "2026-01-22T17:22:46"
+    },
+    {
+      "externalTransactionId": "DEMO-1039",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 14964,
+      "description": "교통 이용",
+      "transactionDate": "2026-01-13T11:11:45"
+    },
+    {
+      "externalTransactionId": "DEMO-1040",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 50673,
+      "description": "통신 이용",
+      "transactionDate": "2026-06-05T19:07:36"
+    },
+    {
+      "externalTransactionId": "DEMO-1041",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 4042,
+      "description": "카페 이용",
+      "transactionDate": "2026-03-23T22:30:09"
+    },
+    {
+      "externalTransactionId": "DEMO-1042",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 51245,
+      "description": "생활 이용",
+      "transactionDate": "2026-03-24T13:49:22"
+    },
+    {
+      "externalTransactionId": "DEMO-1043",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 40717,
+      "description": "문화 이용",
+      "transactionDate": "2026-06-03T15:33:23"
+    },
+    {
+      "externalTransactionId": "DEMO-1044",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 38071,
+      "description": "문화 이용",
+      "transactionDate": "2026-02-25T11:39:35"
+    },
+    {
+      "externalTransactionId": "DEMO-1045",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 4643,
+      "description": "카페 이용",
+      "transactionDate": "2026-04-06T18:44:05"
+    },
+    {
+      "externalTransactionId": "DEMO-1046",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 44789,
+      "description": "문화 이용",
+      "transactionDate": "2026-07-29T07:37:56"
+    },
+    {
+      "externalTransactionId": "DEMO-1047",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 8288,
+      "description": "카페 이용",
+      "transactionDate": "2026-06-16T09:17:33"
+    },
+    {
+      "externalTransactionId": "DEMO-1048",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 62350,
+      "description": "생활 이용",
+      "transactionDate": "2026-05-21T14:03:05"
+    },
+    {
+      "externalTransactionId": "DEMO-1049",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 3766,
+      "description": "교통 이용",
+      "transactionDate": "2026-07-17T21:07:45"
+    },
+    {
+      "externalTransactionId": "DEMO-1050",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 31915,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-10-21T12:24:01"
+    },
+    {
+      "externalTransactionId": "DEMO-1051",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 9592,
+      "description": "식비 이용",
+      "transactionDate": "2026-03-01T08:35:03"
+    },
+    {
+      "externalTransactionId": "DEMO-1052",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 18484,
+      "description": "문화 이용",
+      "transactionDate": "2026-09-22T06:32:40"
+    },
+    {
+      "externalTransactionId": "DEMO-1053",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 98172,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-01-25T16:07:16"
+    },
+    {
+      "externalTransactionId": "DEMO-1054",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 70019,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-08-20T10:04:57"
+    },
+    {
+      "externalTransactionId": "DEMO-1055",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 89352,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-04-08T15:20:57"
+    },
+    {
+      "externalTransactionId": "DEMO-1056",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 11504,
+      "description": "생활 이용",
+      "transactionDate": "2026-09-22T04:42:03"
+    },
+    {
+      "externalTransactionId": "DEMO-1057",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 15507,
+      "description": "문화 이용",
+      "transactionDate": "2026-09-22T18:00:04"
+    },
+    {
+      "externalTransactionId": "DEMO-1058",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 44973,
+      "description": "생활 이용",
+      "transactionDate": "2026-09-06T22:11:49"
+    },
+    {
+      "externalTransactionId": "DEMO-1059",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 4413,
+      "description": "카페 이용",
+      "transactionDate": "2026-04-24T23:37:10"
+    },
+    {
+      "externalTransactionId": "DEMO-1060",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 40730,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-06-26T05:00:41"
+    },
+    {
+      "externalTransactionId": "DEMO-1061",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 14630,
+      "description": "식비 이용",
+      "transactionDate": "2026-07-14T09:48:02"
+    },
+    {
+      "externalTransactionId": "DEMO-1062",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 41708,
+      "description": "통신 이용",
+      "transactionDate": "2026-07-17T03:56:10"
+    },
+    {
+      "externalTransactionId": "DEMO-1063",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 15779,
+      "description": "식비 이용",
+      "transactionDate": "2026-09-06T03:26:27"
+    },
+    {
+      "externalTransactionId": "DEMO-1064",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 36071,
+      "description": "생활 이용",
+      "transactionDate": "2026-03-01T08:33:54"
+    },
+    {
+      "externalTransactionId": "DEMO-1065",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 4823,
+      "description": "카페 이용",
+      "transactionDate": "2026-07-29T11:22:36"
+    },
+    {
+      "externalTransactionId": "DEMO-1066",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 64757,
+      "description": "통신 이용",
+      "transactionDate": "2026-01-01T05:19:49"
+    },
+    {
+      "externalTransactionId": "DEMO-1067",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 52487,
+      "description": "생활 이용",
+      "transactionDate": "2026-07-09T18:08:07"
+    },
+    {
+      "externalTransactionId": "DEMO-1068",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 9665,
+      "description": "식비 이용",
+      "transactionDate": "2026-05-21T23:13:33"
+    },
+    {
+      "externalTransactionId": "DEMO-1069",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 50153,
+      "description": "통신 이용",
+      "transactionDate": "2026-04-03T23:51:26"
+    },
+    {
+      "externalTransactionId": "DEMO-1070",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 13892,
+      "description": "식비 이용",
+      "transactionDate": "2026-08-09T08:08:59"
+    },
+    {
+      "externalTransactionId": "DEMO-1071",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 8806,
+      "description": "식비 이용",
+      "transactionDate": "2026-10-12T05:52:23"
+    },
+    {
+      "externalTransactionId": "DEMO-1072",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 29071,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-10-23T09:19:33"
+    },
+    {
+      "externalTransactionId": "DEMO-1073",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 26483,
+      "description": "생활 이용",
+      "transactionDate": "2026-02-19T20:41:42"
+    },
+    {
+      "externalTransactionId": "DEMO-1074",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 39148,
+      "description": "문화 이용",
+      "transactionDate": "2026-08-02T12:32:27"
+    },
+    {
+      "externalTransactionId": "DEMO-1075",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 5842,
+      "description": "교통 이용",
+      "transactionDate": "2026-07-24T22:16:34"
+    },
+    {
+      "externalTransactionId": "DEMO-1076",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 69753,
+      "description": "통신 이용",
+      "transactionDate": "2026-06-14T07:55:53"
+    },
+    {
+      "externalTransactionId": "DEMO-1077",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 10335,
+      "description": "교통 이용",
+      "transactionDate": "2026-10-21T07:34:54"
+    },
+    {
+      "externalTransactionId": "DEMO-1078",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 21182,
+      "description": "문화 이용",
+      "transactionDate": "2026-10-04T21:09:57"
+    },
+    {
+      "externalTransactionId": "DEMO-1079",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 6768,
+      "description": "카페 이용",
+      "transactionDate": "2026-09-18T20:34:34"
+    },
+    {
+      "externalTransactionId": "DEMO-1080",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 32472,
+      "description": "문화 이용",
+      "transactionDate": "2026-06-20T03:23:19"
+    },
+    {
+      "externalTransactionId": "DEMO-1081",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 69177,
+      "description": "생활 이용",
+      "transactionDate": "2026-02-16T23:50:27"
+    },
+    {
+      "externalTransactionId": "DEMO-1082",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 5181,
+      "description": "교통 이용",
+      "transactionDate": "2026-01-25T20:45:52"
+    },
+    {
+      "externalTransactionId": "DEMO-1083",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 3672,
+      "description": "카페 이용",
+      "transactionDate": "2026-08-17T11:26:04"
+    },
+    {
+      "externalTransactionId": "DEMO-1084",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 40161,
+      "description": "생활 이용",
+      "transactionDate": "2026-08-17T12:39:33"
+    },
+    {
+      "externalTransactionId": "DEMO-1085",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 1617,
+      "description": "교통 이용",
+      "transactionDate": "2026-01-28T13:42:12"
+    },
+    {
+      "externalTransactionId": "DEMO-1086",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 49359,
+      "description": "문화 이용",
+      "transactionDate": "2026-01-23T20:44:35"
+    },
+    {
+      "externalTransactionId": "DEMO-1087",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 2604,
+      "description": "교통 이용",
+      "transactionDate": "2026-01-13T04:47:23"
+    },
+    {
+      "externalTransactionId": "DEMO-1088",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 51654,
+      "description": "통신 이용",
+      "transactionDate": "2026-01-28T12:26:18"
+    },
+    {
+      "externalTransactionId": "DEMO-1089",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 41195,
+      "description": "생활 이용",
+      "transactionDate": "2026-04-19T03:35:46"
+    },
+    {
+      "externalTransactionId": "DEMO-1090",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 39812,
+      "description": "문화 이용",
+      "transactionDate": "2026-03-25T04:49:54"
+    },
+    {
+      "externalTransactionId": "DEMO-1091",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 27342,
+      "description": "생활 이용",
+      "transactionDate": "2026-10-08T22:08:04"
+    },
+    {
+      "externalTransactionId": "DEMO-1092",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 71953,
+      "description": "생활 이용",
+      "transactionDate": "2026-04-05T08:53:54"
+    },
+    {
+      "externalTransactionId": "DEMO-1093",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 60996,
+      "description": "통신 이용",
+      "transactionDate": "2026-06-08T02:04:25"
+    },
+    {
+      "externalTransactionId": "DEMO-1094",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 3045,
+      "description": "교통 이용",
+      "transactionDate": "2026-02-07T15:27:38"
+    },
+    {
+      "externalTransactionId": "DEMO-1095",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 36249,
+      "description": "문화 이용",
+      "transactionDate": "2026-05-18T14:17:33"
+    },
+    {
+      "externalTransactionId": "DEMO-1096",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 73883,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-07-01T08:59:07"
+    },
+    {
+      "externalTransactionId": "DEMO-1097",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 33550,
+      "description": "통신 이용",
+      "transactionDate": "2026-09-19T12:12:44"
+    },
+    {
+      "externalTransactionId": "DEMO-1098",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 14449,
+      "description": "문화 이용",
+      "transactionDate": "2026-01-24T12:57:03"
+    },
+    {
+      "externalTransactionId": "DEMO-1099",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 115448,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-05-12T18:31:46"
+    },
+    {
+      "externalTransactionId": "DEMO-1100",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 37161,
+      "description": "통신 이용",
+      "transactionDate": "2026-04-07T13:38:42"
+    },
+    {
+      "externalTransactionId": "DEMO-1101",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 4616,
+      "description": "교통 이용",
+      "transactionDate": "2026-07-28T06:32:43"
+    },
+    {
+      "externalTransactionId": "DEMO-1102",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 38373,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-06-13T20:13:18"
+    },
+    {
+      "externalTransactionId": "DEMO-1103",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 6063,
+      "description": "교통 이용",
+      "transactionDate": "2026-06-29T16:00:22"
+    },
+    {
+      "externalTransactionId": "DEMO-1104",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 2735,
+      "description": "교통 이용",
+      "transactionDate": "2026-06-22T02:16:40"
+    },
+    {
+      "externalTransactionId": "DEMO-1105",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 66066,
+      "description": "통신 이용",
+      "transactionDate": "2026-02-08T00:34:31"
+    },
+    {
+      "externalTransactionId": "DEMO-1106",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 23713,
+      "description": "식비 이용",
+      "transactionDate": "2026-01-06T17:33:11"
+    },
+    {
+      "externalTransactionId": "DEMO-1107",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 13745,
+      "description": "식비 이용",
+      "transactionDate": "2026-03-06T14:07:54"
+    },
+    {
+      "externalTransactionId": "DEMO-1108",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 83653,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-07-06T22:35:08"
+    },
+    {
+      "externalTransactionId": "DEMO-1109",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 8070,
+      "description": "교통 이용",
+      "transactionDate": "2026-01-23T18:31:17"
+    },
+    {
+      "externalTransactionId": "DEMO-1110",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 7709,
+      "description": "교통 이용",
+      "transactionDate": "2026-01-01T20:05:22"
+    },
+    {
+      "externalTransactionId": "DEMO-1111",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 54760,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-06-26T16:59:07"
+    },
+    {
+      "externalTransactionId": "DEMO-1112",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 6965,
+      "description": "카페 이용",
+      "transactionDate": "2026-09-28T12:42:12"
+    },
+    {
+      "externalTransactionId": "DEMO-1113",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 44422,
+      "description": "문화 이용",
+      "transactionDate": "2026-09-15T01:05:15"
+    },
+    {
+      "externalTransactionId": "DEMO-1114",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 39894,
+      "description": "문화 이용",
+      "transactionDate": "2026-03-02T02:48:39"
+    },
+    {
+      "externalTransactionId": "DEMO-1115",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 6361,
+      "description": "교통 이용",
+      "transactionDate": "2026-03-26T13:07:09"
+    },
+    {
+      "externalTransactionId": "DEMO-1116",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 24978,
+      "description": "식비 이용",
+      "transactionDate": "2026-10-13T17:34:03"
+    },
+    {
+      "externalTransactionId": "DEMO-1117",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 17989,
+      "description": "생활 이용",
+      "transactionDate": "2026-10-18T11:38:15"
+    },
+    {
+      "externalTransactionId": "DEMO-1118",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 3968,
+      "description": "카페 이용",
+      "transactionDate": "2026-01-20T11:21:37"
+    },
+    {
+      "externalTransactionId": "DEMO-1119",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 72493,
+      "description": "생활 이용",
+      "transactionDate": "2026-07-15T06:54:18"
+    },
+    {
+      "externalTransactionId": "DEMO-1120",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 64807,
+      "description": "통신 이용",
+      "transactionDate": "2026-03-03T03:22:45"
+    },
+    {
+      "externalTransactionId": "DEMO-1121",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 22640,
+      "description": "식비 이용",
+      "transactionDate": "2026-02-01T02:41:34"
+    },
+    {
+      "externalTransactionId": "DEMO-1122",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 42178,
+      "description": "통신 이용",
+      "transactionDate": "2026-01-27T14:39:54"
+    },
+    {
+      "externalTransactionId": "DEMO-1123",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 18907,
+      "description": "생활 이용",
+      "transactionDate": "2026-09-20T05:26:13"
+    },
+    {
+      "externalTransactionId": "DEMO-1124",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 45414,
+      "description": "통신 이용",
+      "transactionDate": "2026-06-06T19:27:39"
+    },
+    {
+      "externalTransactionId": "DEMO-1125",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 24667,
+      "description": "식비 이용",
+      "transactionDate": "2026-04-06T14:53:36"
+    },
+    {
+      "externalTransactionId": "DEMO-1126",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 15209,
+      "description": "생활 이용",
+      "transactionDate": "2026-08-29T13:03:14"
+    },
+    {
+      "externalTransactionId": "DEMO-1127",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 19737,
+      "description": "식비 이용",
+      "transactionDate": "2026-09-13T07:09:43"
+    },
+    {
+      "externalTransactionId": "DEMO-1128",
+      "transactionType": "EXPENSE",
+      "category": "생활",
+      "amount": 78522,
+      "description": "생활 이용",
+      "transactionDate": "2026-05-03T20:46:50"
+    },
+    {
+      "externalTransactionId": "DEMO-1129",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 5173,
+      "description": "카페 이용",
+      "transactionDate": "2026-09-18T02:17:54"
+    },
+    {
+      "externalTransactionId": "DEMO-1130",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 28590,
+      "description": "문화 이용",
+      "transactionDate": "2026-04-03T16:42:51"
+    },
+    {
+      "externalTransactionId": "DEMO-1131",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 6742,
+      "description": "카페 이용",
+      "transactionDate": "2026-02-20T19:52:26"
+    },
+    {
+      "externalTransactionId": "DEMO-1132",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 27660,
+      "description": "문화 이용",
+      "transactionDate": "2026-06-27T13:38:30"
+    },
+    {
+      "externalTransactionId": "DEMO-1133",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 4094,
+      "description": "카페 이용",
+      "transactionDate": "2026-01-04T14:49:34"
+    },
+    {
+      "externalTransactionId": "DEMO-1134",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 101416,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-08-07T15:28:51"
+    },
+    {
+      "externalTransactionId": "DEMO-1135",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 8400,
+      "description": "식비 이용",
+      "transactionDate": "2026-07-28T19:06:57"
+    },
+    {
+      "externalTransactionId": "DEMO-1136",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 9788,
+      "description": "교통 이용",
+      "transactionDate": "2026-04-13T23:50:49"
+    },
+    {
+      "externalTransactionId": "DEMO-1137",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 7218,
+      "description": "교통 이용",
+      "transactionDate": "2026-01-27T17:10:53"
+    },
+    {
+      "externalTransactionId": "DEMO-1138",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 7554,
+      "description": "교통 이용",
+      "transactionDate": "2026-04-21T16:16:30"
+    },
+    {
+      "externalTransactionId": "DEMO-1139",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 8679,
+      "description": "교통 이용",
+      "transactionDate": "2026-07-30T23:09:30"
+    },
+    {
+      "externalTransactionId": "DEMO-1140",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 27825,
+      "description": "문화 이용",
+      "transactionDate": "2026-08-26T13:14:59"
+    },
+    {
+      "externalTransactionId": "DEMO-1141",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 64664,
+      "description": "통신 이용",
+      "transactionDate": "2026-01-04T00:54:59"
+    },
+    {
+      "externalTransactionId": "DEMO-1142",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 44346,
+      "description": "문화 이용",
+      "transactionDate": "2026-04-27T06:24:43"
+    },
+    {
+      "externalTransactionId": "DEMO-1143",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 14788,
+      "description": "문화 이용",
+      "transactionDate": "2026-02-22T03:41:02"
+    },
+    {
+      "externalTransactionId": "DEMO-1144",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 4445,
+      "description": "카페 이용",
+      "transactionDate": "2026-02-11T13:38:51"
+    },
+    {
+      "externalTransactionId": "DEMO-1145",
+      "transactionType": "EXPENSE",
+      "category": "문화",
+      "amount": 44256,
+      "description": "문화 이용",
+      "transactionDate": "2026-03-02T08:52:46"
+    },
+    {
+      "externalTransactionId": "DEMO-1146",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 5808,
+      "description": "카페 이용",
+      "transactionDate": "2026-08-23T21:25:21"
+    },
+    {
+      "externalTransactionId": "DEMO-1147",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 13257,
+      "description": "교통 이용",
+      "transactionDate": "2026-05-14T03:52:33"
+    },
+    {
+      "externalTransactionId": "DEMO-1148",
+      "transactionType": "EXPENSE",
+      "category": "교통",
+      "amount": 12763,
+      "description": "교통 이용",
+      "transactionDate": "2026-09-04T07:31:34"
+    },
+    {
+      "externalTransactionId": "DEMO-1149",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 47300,
+      "description": "통신 이용",
+      "transactionDate": "2026-07-16T06:45:13"
+    },
+    {
+      "externalTransactionId": "DEMO-1150",
+      "transactionType": "EXPENSE",
+      "category": "쇼핑",
+      "amount": 52914,
+      "description": "쇼핑 이용",
+      "transactionDate": "2026-01-20T17:28:48"
+    },
+    {
+      "externalTransactionId": "DEMO-1151",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 19879,
+      "description": "식비 이용",
+      "transactionDate": "2026-04-18T10:50:47"
+    },
+    {
+      "externalTransactionId": "DEMO-1152",
+      "transactionType": "EXPENSE",
+      "category": "식비",
+      "amount": 6116,
+      "description": "식비 이용",
+      "transactionDate": "2026-05-10T12:58:20"
+    },
+    {
+      "externalTransactionId": "DEMO-1153",
+      "transactionType": "EXPENSE",
+      "category": "통신",
+      "amount": 38573,
+      "description": "통신 이용",
+      "transactionDate": "2026-09-05T10:19:37"
+    },
+    {
+      "externalTransactionId": "DEMO-1154",
+      "transactionType": "EXPENSE",
+      "category": "카페",
+      "amount": 4823,
+      "description": "카페 이용",
+      "transactionDate": "2026-10-15T20:46:22"
+    },
+    {
+      "externalTransactionId": "DEMO-SALARY-2026-01",
+      "transactionType": "INCOME",
+      "category": "급여",
+      "amount": 3200000,
+      "description": "1월 급여",
+      "transactionDate": "2026-01-20T09:00:00"
+    },
+    {
+      "externalTransactionId": "DEMO-SALARY-2026-02",
+      "transactionType": "INCOME",
+      "category": "급여",
+      "amount": 3200000,
+      "description": "2월 급여",
+      "transactionDate": "2026-02-20T09:00:00"
+    },
+    {
+      "externalTransactionId": "DEMO-SALARY-2026-03",
+      "transactionType": "INCOME",
+      "category": "급여",
+      "amount": 3200000,
+      "description": "3월 급여",
+      "transactionDate": "2026-03-20T09:00:00"
+    },
+    {
+      "externalTransactionId": "DEMO-SALARY-2026-04",
+      "transactionType": "INCOME",
+      "category": "급여",
+      "amount": 3200000,
+      "description": "4월 급여",
+      "transactionDate": "2026-04-20T09:00:00"
+    },
+    {
+      "externalTransactionId": "DEMO-SALARY-2026-05",
+      "transactionType": "INCOME",
+      "category": "급여",
+      "amount": 3200000,
+      "description": "5월 급여",
+      "transactionDate": "2026-05-20T09:00:00"
+    },
+    {
+      "externalTransactionId": "DEMO-SALARY-2026-06",
+      "transactionType": "INCOME",
+      "category": "급여",
+      "amount": 3200000,
+      "description": "6월 급여",
+      "transactionDate": "2026-06-20T09:00:00"
+    },
+    {
+      "externalTransactionId": "DEMO-SALARY-2026-07",
+      "transactionType": "INCOME",
+      "category": "급여",
+      "amount": 3200000,
+      "description": "7월 급여",
+      "transactionDate": "2026-07-20T09:00:00"
+    },
+    {
+      "externalTransactionId": "DEMO-SALARY-2026-08",
+      "transactionType": "INCOME",
+      "category": "급여",
+      "amount": 3200000,
+      "description": "8월 급여",
+      "transactionDate": "2026-08-20T09:00:00"
+    },
+    {
+      "externalTransactionId": "DEMO-SALARY-2026-09",
+      "transactionType": "INCOME",
+      "category": "급여",
+      "amount": 3200000,
+      "description": "9월 급여",
+      "transactionDate": "2026-09-20T09:00:00"
+    }
+  ]
+}
