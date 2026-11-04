@@ -25,7 +25,18 @@ public class SecurityConfig {
                         .requestMatchers("/api/auth/csrf").permitAll()
                         .anyRequest().authenticated()
                 )
-                .formLogin(form -> form.permitAll());
+
+                .formLogin(form -> form.permitAll())
+                .exceptionHandling(ex -> ex
+                        .defaultAuthenticationEntryPointFor(
+                                (request, response, authException) ->
+                                        response.sendError(401, "Unauthorized"),
+                                org.springframework.security.web.servlet.util.matcher.PathPatternRequestMatcher
+                                        .withDefaults()
+                                        .matcher("/api/**")
+                        )
+                );
+
 
         return http.build();
     }
