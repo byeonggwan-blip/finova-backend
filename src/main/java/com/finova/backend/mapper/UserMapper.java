@@ -37,4 +37,12 @@ public interface UserMapper {
             @Result(property = "passwordHash", column = "password_hash")
     })
     UserAccount findByUsername(@Param("username") String username);
+
+    @Select("""
+        SELECT user_id
+        FROM users
+        WHERE username = #{username}
+        """)
+    Long findUserIdByUsername(@Param("username") String username);
+
 }
